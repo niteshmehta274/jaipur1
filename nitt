@@ -1,7 +1,12 @@
-
-index.php 
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <body>
 
-<h1> welcome to my testing page regards NITESH MEHTA </h1>
+<h1>My first live php webserver </h1>
+
+<?php
+echo "hello india we will win ICC world cup "
+?>
+
+</body>
+</html> 
